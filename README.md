@@ -43,7 +43,7 @@ Data preprocessing was performed using Python to ensure data quality before anal
  Script:
 
 ```
-amazon_dataset/python/data_cleaning.py
+python/data_cleaning.py
 ```
 
 ---
@@ -63,7 +63,7 @@ SQL was used for exploratory analysis and KPI computation.
  Queries:
 
 ```
-amazon_dataset/sql/analysis_queries.sql
+sql/analysis_queries.sql
 ```
 
 ---
