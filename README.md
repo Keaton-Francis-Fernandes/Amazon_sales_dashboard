@@ -123,7 +123,7 @@ SQL was used for exploratory analysis and KPI computation.
 
 ### Overview
 
-![Dashboard](Images/dashboard_overview.png)
+![Dashboard](amazon_dataset/Images/dashboard_overview.png)
 
 ### Funnel Analysis
 
