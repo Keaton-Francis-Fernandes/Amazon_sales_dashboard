@@ -123,15 +123,15 @@ SQL was used for exploratory analysis and KPI computation.
 
 ### Overview
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](Images/dashboard_overview.png)
 
 ### Funnel Analysis
 
-![Funnel](images/funnel_analysis.png)
+![Funnel](Images/funnel_analysis.png)
 
 ### Geographic Analysis
 
-![Map](images/map_analysis.png)
+![Map](Images/map_analysis.png)
 
 ---
 
