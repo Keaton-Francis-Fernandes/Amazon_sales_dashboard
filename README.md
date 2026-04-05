@@ -43,7 +43,7 @@ Data preprocessing was performed using Python to ensure data quality before anal
  Script:
 
 ```
-/python/data_cleaning.py
+amazon_dataset/python/data_cleaning.py
 ```
 
 ---
@@ -63,7 +63,7 @@ SQL was used for exploratory analysis and KPI computation.
  Queries:
 
 ```
-/sql/analysis_queries.sql
+amazon_dataset/sql/analysis_queries.sql
 ```
 
 ---
@@ -127,11 +127,11 @@ SQL was used for exploratory analysis and KPI computation.
 
 ### Funnel Analysis
 
-![Funnel](Images/funnel_analysis.png)
+![Funnel](amazon_dataset/Images/funnel_analysis.png)
 
 ### Geographic Analysis
 
-![Map](Images/map_analysis.png)
+![Map](amazon_dataset/Images/map_analysis.png)
 
 ---
 
